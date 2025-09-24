@@ -36,3 +36,8 @@ All data operations are simulated and performed optimistically on the local clie
 - Department field is mocked, as JSONPlaceholder does not provide it
 - User avatars are optional; fallback to initials if not provided
 
+## Screenshots
+<img width="2196" height="1623" alt="image" src="https://github.com/user-attachments/assets/f06a69cf-4b8b-4e15-a967-f40b995e403c" />
+<img width="711" height="1320" alt="image" src="https://github.com/user-attachments/assets/82a3faaa-f3d1-434f-a30e-51ff11fb1245" />
+<img width="789" height="1354" alt="image" src="https://github.com/user-attachments/assets/ac87cf02-ec50-4f69-9001-2049ee4e61bc" />
+
